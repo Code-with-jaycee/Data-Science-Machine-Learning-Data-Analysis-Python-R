@@ -74,10 +74,16 @@ Numpy is an open source library in python that used in mathematical, statistical
 
 # Operations using numpy
 
+How to install
 ```
 pip install numpy
 ```
+<h3>Python Numpy Array</h3>
+How to create an array
 
+```
+np.array()
+```
 
 
 
