@@ -72,6 +72,11 @@ Machine learning engineers play an important role on the data science team. Thei
 
 Numpy is an open source library in python that used in mathematical, statistical operation, scientific, engineering and data science programming.
 
+# Operations using numpy
+
+```
+pip install numpy
+```
 
 
 
