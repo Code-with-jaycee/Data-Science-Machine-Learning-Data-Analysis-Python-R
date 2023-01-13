@@ -98,6 +98,8 @@ print(type(b))
 
 # Pandas
 
+Pandas is an open source python library providing high performance data manupulation and analysis tool using its powerful data structures.
+
 
 
 
