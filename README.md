@@ -17,7 +17,6 @@ This is the concept of statistics ,Data analysis , machine learning to understan
 <h1>Data science process</h1>
 
 
-</>
 <h3>Real Time Process of Data Science?</h3>
 
 <img src="https://user-images.githubusercontent.com/87891857/211840013-885618d9-d2c2-4cf5-8edb-7b5653c8b9c7.JPG" alt="Datascience process" title="Optional title">
@@ -101,7 +100,15 @@ print(type(b))
 Pandas is an open source python library providing high performance data manupulation and analysis tool using its powerful data structures.
 
 
+<h3>Advantages</h3>
 
+- Series - This is a single dimensional data structure with homegenous data types values
+
+
+- DataFrame
+- Handling missing data
+- Sclicing
+- Merging, camcatenating, reshaping
 
 
 
