@@ -137,10 +137,10 @@ import matplotlib.pyplot as plt
 plt.figure(dpi=400)
 plt.plot([1, 2, 3, 4], [10, 20, 30, 40],color="red", lw=0.4, marker="o", markerfacecolor="red")
 plt.grid(True)
-plt.title("Jaycee")
-plt.xlabel("Month")
-plt.ylabel("Sales")
-plt.show()
+plt.title("Jaycee") # Adds the title
+plt.xlabel("Month") # Adds the x label
+plt.ylabel("Sales") # adds the y label
+plt.show()          # Display the plot
 ```
 
 # Output
