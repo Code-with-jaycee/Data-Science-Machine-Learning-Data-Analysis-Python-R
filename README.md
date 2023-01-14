@@ -131,7 +131,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 ```
 
-# Example
+# Example 
+# Line graph
 
 ```
 plt.figure(dpi=400)
@@ -146,3 +147,23 @@ plt.show()          # Display the plot
 # Output
 
 <img src="https://user-images.githubusercontent.com/87891857/212457277-98f79df8-5095-4ff9-b3a6-b0136a532611.png" alt="line graph" title="Optional title" width=50% height=50%>
+
+
+# Bar graph
+
+```
+plt.figure(dpi=600)
+
+Month = ["jan", "Feb", "Mar", "Apr", "May"]
+sales = [50, 60, 55, 75, 65]
+
+plt.bar(Month, sales)
+
+plt.title("Monthly sales")
+plt.xlabel("Month")
+plt.ylabel("Sales")
+plt.show()
+```
+
+# Output
+<img src="https://user-images.githubusercontent.com/87891857/212459165-7ccb51d6-c7f8-4e0e-a2ad-a1bfc0fa9ab5.png" alt="Bargraph" title="Optional title" width=50% height=50%>
