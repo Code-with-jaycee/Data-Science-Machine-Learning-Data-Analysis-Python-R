@@ -110,5 +110,39 @@ Pandas is an open source python library providing high performance data manupula
 - Sclicing
 - Merging, camcatenating, reshaping
 
+# Example
+
+```
+a = [['Srinivas', 97], ['Vase', 89], ['Nivas', 90]]
+
+df = pd.DataFrame(a, columns=['Name', 'Marks'])
+df
+
+```
 
 
+
+# MatPlotlib
+
+```
+imports
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+```
+
+# Example
+
+```
+plt.figure(dpi=400)
+plt.plot([1, 2, 3, 4], [10, 20, 30, 40],color="red", lw=0.4, marker="o", markerfacecolor="red")
+plt.grid(True)
+plt.title("Jaycee")
+plt.xlabel("Month")
+plt.ylabel("Sales")
+plt.show()
+```
+
+# Output
+
+<img src="https://user-images.githubusercontent.com/87891857/212457277-98f79df8-5095-4ff9-b3a6-b0136a532611.png" alt="line graph" title="Optional title" width=50% height=50%>
