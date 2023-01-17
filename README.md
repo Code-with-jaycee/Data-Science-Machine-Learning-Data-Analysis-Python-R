@@ -61,9 +61,22 @@ Machine learning engineers play an important role on the data science team. Thei
 <h3>Type of machine learning</h3>
 
 - Supervised
+
+Task driven
+<h5>Examples</h5>
+Regression
+Classification
+
 - semi-supervised
 - unsupervised
+
+Data driven
+<h5>Examples</h5>
+Clustering
+
 - reinforcement.
+Algorith learns to react to an environment. 
+
 
 
 
@@ -175,3 +188,5 @@ A matplotlib-based Python data visualization library is called Seaborn. It offer
 
 
 # Machine learning
+
+<h3>What is Machine Learning?</h3>
