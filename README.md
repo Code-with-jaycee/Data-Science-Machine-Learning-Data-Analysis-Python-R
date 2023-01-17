@@ -167,3 +167,11 @@ plt.show()
 
 # Output
 <img src="https://user-images.githubusercontent.com/87891857/212459165-7ccb51d6-c7f8-4e0e-a2ad-a1bfc0fa9ab5.png" alt="Bargraph" title="Optional title" width=50% height=50%>
+
+
+
+# Seaborn library
+A matplotlib-based Python data visualization library is called Seaborn. It offers a sophisticated drawing tool for creating eye-catching and educational statistical visuals.
+
+
+# Machine learning
