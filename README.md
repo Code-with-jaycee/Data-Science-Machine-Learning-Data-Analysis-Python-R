@@ -58,6 +58,9 @@ Statistics infers population inferences from a sample, whereas machine learning 
 
 Machine learning engineers play an important role on the data science team. Their responsibilities include studying, developing, and creating the artificial intelligence that drives machine learning, as well as maintaining and improving current artificial intelligence systems.
 
+- Evaluating the performance
+- 
+
 <h3>Type of machine learning</h3>
 
 - Supervised
