@@ -190,6 +190,26 @@ plt.show()
 A matplotlib-based Python data visualization library is called Seaborn. It offers a sophisticated drawing tool for creating eye-catching and educational statistical visuals.
 
 
-# Machine learning
+# Data Visualization with R programming
 
-<h3>What is Machine Learning?</h3>
+1. High level plotting - Generate a new plot
+2. Low level plotting - Editing the existing plot
+
+R programming language has many libraries to create charts and graphs
+<h6>Data can be visualized in the form of
+</h6>
+
+- pie charts<br>
+This is a representation of values as slices of a circle with different colors.<br><br>
+<b>function: Pie()</b><br>
+<b>Syntax:</b>
+
+```
+pie(x, labels, radius, main, col, clockwise)
+```
+
+- bar charts
+- boxplots
+- histograms
+- line graphs
+- scatterplots
