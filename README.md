@@ -207,6 +207,7 @@ This is a representation of values as slices of a circle with different colors.<
 ```
 pie(x, labels, radius, main, col, clockwise)
 ```
+pie chart title and colors
 
 - bar charts
 - boxplots
